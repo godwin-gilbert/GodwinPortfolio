@@ -1,0 +1,39 @@
+HOME
+-----
+HEADER -> LOGO , NAVBAR : home | about | skills | projects | contact
+hey im GOD...
+image
+download RESUME
+*ergonomic background*
+-----
+
+
+ABOUT
+-----
+<p>about me
+education
+-----
+
+
+SKILLS
+------
+skills
+areas of interest
+------
+
+
+PROJECTS
+--------
+3 columns : cart | superCars | pongPy
+--------
+
+
+CONTACT ME
+---------
+DETAILS email 
+phone 
+adress
+message me textbox
+FOOTER : made by copyright @godwin
+	 links > github linkedin insta whatsapp
+---------
